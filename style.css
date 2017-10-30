@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: gainsboro;
+}
+main{
+    margin: auto;
+    padding: 20px;
+    width: 500px;
+    height: 500px;
+    background: linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+}
